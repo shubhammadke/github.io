@@ -1,0 +1,22 @@
+# Education Template
+- layout: left
+  name: Illinois Institute of Technology
+  dates: 2018-present 
+  qualification: M S in Information Technology and Management (Data Management)
+  gpa: 3.7/4.0
+  quote: >
+    "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
+  description: | # this will include new lines to allow paragraphs
+    - *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
+    
+    
+- layout: left
+  name: Datta Meghe, Airoli - Mumbai University
+  dates: 2015-2018 
+  qualification: Bachelors in Information Technology
+  gpa: 3/4.0
+  quote: >
+    " Datta Meghe, Airoli, believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
+  description: | # this will include new lines to allow paragraphs
+    - *Relevant Courses*: Computer Programming using C, Embedded systems, Cloud Computing, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++. 
+    

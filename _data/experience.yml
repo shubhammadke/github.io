@@ -1,0 +1,35 @@
+# Experience template
+- layout: left
+  company: Illinois Institute of Technology
+  link: https://www.iit.edu/
+  job_title: Community Desk Assistance
+  dates: 2020-present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+        - Community Desk Assistants (CDAs) provide security, customer service, and emergency response, while collaborating to create a welcoming community in the residence halls and apartments.  
+        - The CDA position reports directly to one of three Senior Residence Advisors (SRAs). 
+
+
+# Experience template
+- layout: left
+  company: Alter Ego
+  job_title: Public Relations /Intern
+  dates: 2017
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Managed various Technical and Non-Tehnical Events
+     - Managed and Handle back-end databases
+
+
+
+
+
+
