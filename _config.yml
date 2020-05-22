@@ -1,0 +1,77 @@
+# Site
+repository: shubhammadke/shubhammadke.github.io
+#favicon: images/favicon.ico
+
+# Personal info
+name: Shubham Madke
+title: MS in Information Technology and Management (Data Analytics and Management)
+email: smadke@hawk.iit.edu
+phone: 312-404-9752
+#website: www.github.com/sproogen/resume-theme
+
+# Social links
+#twitter_username: facespics
+github_username:  shubhammadke
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: smadke2611
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am Shubham Madke.
+  
+A fast learner eager to hold an Analytical position; bringing brilliant analytical skills, extensive knowledge of operations, critical thinking, and superb data managing abilities to help the company and clients achieve their goals.
+
+  Scroll down to learn more about me!
+
+  
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+   - **Data** **Management**:Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
+   - **Programming** **Languages**: C,C++,Java, SQL
+   - **Web Technology**: HTML5, CSS, JavaScript
+   - **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
+   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
+   - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
+   - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
+   - **ETL Tools**: MS SSIS, Pentaho
+   
+# Others Section
+# others_title: Achievements & Accomplishments
+others_content: | # this will include new lines to allow paragraphs
+   - Information Technology Management Organization (Masters) 2020- Marketing Chair – Student Organization
+   - E-CELL (Entrepreneur Cell) - Executive Member - (September 1-2015)
+   - Group of Information Technology (Bachelors) Student Organization - Co-general Secretary – 2016-2018
+   - Alter Ego Learning - Public Relation Intern –(Jan2017-Apr2017)
+             
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
