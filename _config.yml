@@ -51,7 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
    - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
-   - **ETL Tools**: MS SSIS, Pentaho
+   - **ETL Tools**: Pentaho
    
 # Others Section
 # others_title: Achievements & Accomplishments
