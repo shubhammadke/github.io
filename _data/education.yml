@@ -7,16 +7,25 @@
   quote: >
     "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
   description: | # this will include new lines to allow paragraphs
-    - *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
+    - *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Data Security
     
     
 - layout: left
   name: Datta Meghe, Airoli - Mumbai University
   dates: 2015-2018 
   qualification: Bachelors in Information Technology
-  gpa: 3/4.0
+  gpa: 6.57/10
   quote: >
     " Datta Meghe, Airoli, believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
   description: | # this will include new lines to allow paragraphs
     - *Relevant Courses*: Computer Programming using C, Embedded systems, Cloud Computing, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++. 
     
+- layout: left
+  name: Institute of Technology, Ulhasnagar - Mumbai University
+  dates: 2012-2015 
+  qualification: Bachelors in Information Technology
+  gpa: 7.54/10
+  quote: >
+    " Institute of Technology, Ulhasnagar, ensures that it provides quality education to all sections of society" 
+  description: | # this will include new lines to allow paragraphs
+    - *Relevant Courses*: Big Data Analytics, Software Testing, Java, C, C++. 
