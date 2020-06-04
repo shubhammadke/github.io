@@ -1,7 +1,6 @@
 # Certificate template
 - layout: left
   company: IBM
-  link: https://www.youracclaim.com/badges/37bf49bb-89b0-4837-9c81-5613300f0ee9/linked_in_profile
   cert_title: Data Analysis using Python
   dates: May2020
   #quote: >
@@ -15,7 +14,6 @@
 # Certificate template
 - layout: left
   company: IBM
-  link: https:https://www.youracclaim.com/badges/b8004e1d-260d-41e1-8bd6-ced6635ad976/linked_in_profile
   cert_title: Machine Learning using Python
   dates: May2020
   #quote: >
@@ -29,7 +27,6 @@
 # Certificate template
 - layout: left
   company: AWS
-  link: https:https://www.youracclaim.com/badges/b8004e1d-260d-41e1-8bd6-ced6635ad976/linked_in_profile
   cert_title: Data Analytics Fundamentals
   dates: June2020
   #quote: >
@@ -44,7 +41,6 @@
 # Certificate template
 - layout: left
   company: Tableau
-  link: https:https://www.youracclaim.com/badges/91ced940-21fd-441b-a6c9-73d87144dc83/linked_in_profile
   cert_title: Tableau Analyst
   dates: May2020
   #quote: >
@@ -58,7 +54,7 @@
 # Certificate template
 - layout: left
   company: Linked-IN
-  link: https:https://www.linkedin.com/in/smadke2611/
+  link: https://www.linkedin.com/in/smadke2611/
   cert_title: Linked-IN Certifications
   dates: Mar20-May20
   #quote: >
