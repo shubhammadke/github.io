@@ -14,7 +14,7 @@
 # Certificate template
 - layout: left
   company: IBM
-  cert_title: Machine Learning using Python
+  job_title: Machine Learning using Python
   dates: May2020
   #quote: >
   # Short description of the company (optional)
@@ -27,7 +27,7 @@
 # Certificate template
 - layout: left
   company: AWS
-  cert_title: Data Analytics Fundamentals
+  job_title: Data Analytics Fundamentals
   dates: June2020
   #quote: >
   # Short description of the company (optional)
@@ -41,7 +41,7 @@
 # Certificate template
 - layout: left
   company: Tableau
-  cert_title: Tableau Analyst
+  job_title: Tableau Analyst
   dates: May2020
   #quote: >
   # Short description of the company (optional)
@@ -55,7 +55,7 @@
 - layout: left
   company: Linked-IN
   link: https://www.linkedin.com/in/smadke2611/
-  cert_title: Linked-IN Certifications
+  job_title: Linked-IN Certifications
   dates: Mar20-May20
   #quote: >
   # Short description of the company (optional)
