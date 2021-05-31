@@ -1,54 +1,80 @@
 # Project template
 
 - layout: top-middle
-  name: CTA Crime Analysis, Illinois Institute of Technology Feb 20 – May 20
+  name: Multiple Disease Healthcare Web-App Jan 21 – Mar 21
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-    Predicted whether incident is going to happen or not based on incident reports and log reports made available by company
+    Python, Excel, Tableau
     
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
        
-       - Fetched the weather data, ATM, restaurants and latitude-longitude nearby locations also relevant libraries using Here API’s
-       - Applied Feature Selection using Forward and Backward step Wrapper Methods and Select-K-Best Chi-square Filter Methods
-       - Built models such as Gradient Boosting, AdaBoost, Extra Tree Random Forest, Decision Trees, Neural Networks in Python
-       - Developed Binary and Multi-class classification, Association Rules as per Lift and Fuzzy Classification to get accurate results
-
+       - Diagnosed features using hyper-parameter tuning with in-built quantitative models such as Decision Trees, Random Forest, SVM, Neural Networks, Bagging methods with 96% Accuracy and deployment using Stream-lit web-app.
 
 - layout: top-middle
-  name: Analysis of COVID-19 using Data Visualization Feb 20 - Apr 20
+  name: Crime Detection Prediction Model Aug 20 – Oct 20
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-    COVID Analysis
+    Jupyter Notebook, SQL, Excel
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Conducted analytics to Identify, extract data using APIand create training data for crime of 2 years, diagnosed Neural Network to elevate performance metrics up to 85.22% Accuracy, used numpy, pandas, matplotlib, plotly, keras
+
+
+- layout: top-middle
+  name: Supply Chain Analysis Nov 20 – Dec 20
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    PyCharm, R-Studio
   
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
        
-       - Gathered the data of COVID-19 for analyzing the most affected Areas in the United States and other countries and regions
-       - Captured the data from various data sources in Pentaho using Data Warehousing concepts such as Transformations & Jobs
-       - Used SQL queries to gather the overall data which was further visualized using Tableau Desktop by using various Mark Types
+       - Performed predictive modeling over dataset to forecast future demand, prices of products with 88% Accuracy, built prescriptive analytics to set inventory status and gave optimal solution, used precision, and recall metrics.
        
 - layout: top-middle
-  name: Bike Sharing Prediction Model, Illinois Institute of Technology Sep 19 – Dec 19
+  name: Bike Sharing Prediction Model Sep 19 – Dec 19
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-     Analyzing the number of counts of Bike building predictive models such as Multiple Linear Regression using AIC-BIC Metrics.
+     Python, R-Studio, WEKA 
   
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
       
-      - Applied data-preprocessing and feature engineering to get insights using Statistical analysis and build ANOVA modelling
-      - Implemented classification Algorithms such as KNN, Naïve Bayes and Random Forest, Time-series Analysis for forecasting
-      - Trained models using Random Forest, Support Vector Machine algorithm and Performed Residual Analysis after modelling
-      - Performed data cleansing and preprocessing using R statistical packages. 
-      - Compared various attributes and concluded the best model for prediction based on their Adjusted-R2 and RMSE values
-       
+      - Used feature selection (Chi2), classification, and forecasting methods such as time-series analysis in Weka, analyzed company stock prices & industry regulatory trends and issues achieving 15% more accurate predictions on modeling.
+ 
+   
+   - layout: top-middle
+  name: Lane Detection Web Application Sep 20 – Oct 20
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+     OpenCV, Jupyter Notebook 
+  
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+      
+      - Developed a open-cv based lane detection project using Spatial Convolutional Neural Networks for recognizing simple & complex features using object detection and statistics with 96.53% Accuracy and deployed using Streamlit web-app.
+     
+     
+     
+     
+     
+     
+     
